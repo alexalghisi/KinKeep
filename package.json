@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "kinkeep",
-  "description": "Sibling caregiver log for one parent. Who did the cardiology run. Who already gave the evening pill. Fairness you can see."
+  "description": "Shared caregiver operations: task ownership, sibling load, and a deterministic next-up rule."
 }

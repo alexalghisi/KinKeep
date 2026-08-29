@@ -1,10 +1,10 @@
 # KinKeep
 
-Three siblings, one parent, a WhatsApp thread that is already a fight. Who took
-Elena to cardiology. Who already gave the 8am pill. Who still owes a grocery run.
+Operational log for one dependent shared across siblings: who completed which
+care task, who is under-loaded, and who should take the next one.
 
-The fairness rule is in [`src/lib/care.ts`](src/lib/care.ts): fewest completed
-tasks, then name order. Claim a row as yourself. Open **Fairness**.
+Fairness is explicit in [`src/lib/care.ts`](src/lib/care.ts) — fewest completed
+tasks, then stable name order — so resentment is a dashboard, not a thread.
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
 Playwright**
@@ -24,11 +24,11 @@ and Logs (Mountain View).
 | -------- | --------------------------------------------------------------------------------------- |
 | GitHub   | [github.com/alexalghisi](https://github.com/alexalghisi)                                |
 | LinkedIn | [linkedin.com/in/alghisi](https://www.linkedin.com/in/alghisi)                          |
-| Email    | [alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com) |
+| Email    | [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com)                                   |
 | Location | Cluj-Napoca, Romania · open to remote / EU / US-friendly timezones                      |
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
-[alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com).
+[alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
 
 ---
 

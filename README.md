@@ -3,6 +3,10 @@
 Operational log for one dependent shared across siblings: who completed which
 care task, who is under-loaded, and who should take the next one.
 
+**Download:** [latest release](https://github.com/alexalghisi/KinKeep/releases/latest)
+
+![KinKeep running](docs/preview.png)
+
 Fairness is explicit in [`src/lib/care.ts`](src/lib/care.ts) — fewest completed
 tasks, then stable name order — so resentment is a dashboard, not a thread.
 
